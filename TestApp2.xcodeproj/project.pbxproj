@@ -15,6 +15,7 @@
 		2AEB02541F0F304B00E8FCE7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2AEB02521F0F304B00E8FCE7 /* LaunchScreen.storyboard */; };
 		2AEB025F1F0F304B00E8FCE7 /* TestApp2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AEB025E1F0F304B00E8FCE7 /* TestApp2Tests.swift */; };
 		2AEB026A1F0F304B00E8FCE7 /* TestApp2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AEB02691F0F304B00E8FCE7 /* TestApp2UITests.swift */; };
+		2AEB027C1F0F3D1300E8FCE7 /* SubViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AEB027B1F0F3D1300E8FCE7 /* SubViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		2AEB02651F0F304B00E8FCE7 /* TestApp2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestApp2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2AEB02691F0F304B00E8FCE7 /* TestApp2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestApp2UITests.swift; sourceTree = "<group>"; };
 		2AEB026B1F0F304B00E8FCE7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2AEB027B1F0F3D1300E8FCE7 /* SubViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SubViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 			children = (
 				2AEB02461F0F304B00E8FCE7 /* AppDelegate.swift */,
 				2AEB02481F0F304B00E8FCE7 /* ViewController.swift */,
+				2AEB027B1F0F3D1300E8FCE7 /* SubViewController.swift */,
 				2AEB024A1F0F304B00E8FCE7 /* Main.storyboard */,
 				2AEB02501F0F304B00E8FCE7 /* Assets.xcassets */,
 				2AEB02521F0F304B00E8FCE7 /* LaunchScreen.storyboard */,
@@ -268,6 +271,7 @@
 				2AEB02491F0F304B00E8FCE7 /* ViewController.swift in Sources */,
 				2AEB024F1F0F304B00E8FCE7 /* TestApp2.xcdatamodeld in Sources */,
 				2AEB02471F0F304B00E8FCE7 /* AppDelegate.swift in Sources */,
+				2AEB027C1F0F3D1300E8FCE7 /* SubViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
